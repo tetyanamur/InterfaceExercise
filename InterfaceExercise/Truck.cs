@@ -15,7 +15,7 @@ namespace InterfaceExercise
         public string Model { get; set; } = "F180";
         public double EnSize { get; set; } = 7;
         public int NumofSeats { get; set; } = 4;
-        public string CompanyName { get; set; } = "Toyota";
+        public string CompanyName { get; set; } = "Ford";
         public string Motto { get; set; } = "Ford is awesome";
         public bool HasChangedWindsh { get; set; }
         public bool ChangeWindsh { get; set; }
